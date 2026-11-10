@@ -1,5 +1,11 @@
 <div align="center">
 
+<a href="https://thecapitalsuite.co"><img src="assets/hero.svg" alt="The Capital Suite. Building AI for real work. Read more here: thecapitalsuite.co" width="100%"></a>
+
+</div>
+
+<div align="center">
+
 ### AI coding usage
 
 <img src="https://raw.githubusercontent.com/killerwaz/token-history/master/charts/badge/pixel-tokens-30d.svg" alt="Tokens, last 30 days">
